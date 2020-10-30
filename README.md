@@ -19,3 +19,13 @@
 É uma lonuagem de estilo, isso quer dizer que ela tem as seguintes responsabilidades:
 
 - Visual;
+
+```
+🤿 FLOAT
+
+➡ Cria um novo contexto (o pai ignora o filho).
+➡ Nunca esconde um conteúdo.
+➡ O que define a Width e high é o próprio conteúdo.
+
+Overflow: hidden (avisa para o pai recalcular o contexto)
+```
